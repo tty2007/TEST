@@ -49,7 +49,7 @@
  .dropbtn:hover{
     display: block; 
     cursor: pointer !important;
-    background-color:#e0c3fc 0%,;
+    background-color:rgb(89, 220, 240) !important;
     color: black !important;
  }
  
