@@ -1,4 +1,4 @@
-.btns{
+ .btns{
     position: absolute;
     top: 150px;
     left: 0;
@@ -47,9 +47,9 @@
  }
  
  .dropbtn:hover{
-    display: block !important;
-    cursor: pointer ;
-    background-color: rgb(89, 220, 240) !important;
+    display: block; 
+    cursor: pointer !important;
+    background-color:rgb(89, 220, 240) !important;
     color: black !important;
  }
  
